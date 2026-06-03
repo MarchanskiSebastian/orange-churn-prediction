@@ -124,9 +124,13 @@ Top factors driving customer churn:
 ---
 
 ## Project Structure
-├── churn-prediction.ows    — Orange workflow file
-├── data/                   — source CSV (download from Kaggle)
-└── screenshots/            — workflow and results screenshots
+
+```
+churn-prediction.ows    — Orange workflow file
+data/                   — source CSV (download from Kaggle)
+screenshots/            — workflow and results screenshots
+README.md
+```
 
 ## How to Run
 
